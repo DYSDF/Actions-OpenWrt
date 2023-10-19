@@ -24,3 +24,6 @@ echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >
 # openclash
 wget -O openclash.zip https://github.com/vernesong/OpenClash/archive/refs/heads/master.zip
 unzip openclash.zip -d package/luci-app-openclash
+
+# openappfilter
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
