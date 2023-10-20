@@ -27,3 +27,7 @@ unzip openclash.zip -d package/luci-app-openclash
 
 # openappfilter
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+
+# vlmcsd
+git clone https://github.com/DYSDF/luci-app-vlmcsd.git package/luci-app-vlmcsd
+git clone https://github.com/mchome/openwrt-vlmcsd.git package/openwrt-vlmcsd
